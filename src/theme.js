@@ -20,7 +20,8 @@ const theme = {
     main: '#e1e4e8',
     appBar: '#24292e',
     repositoryItem: '#fff',
-    tag: '#0366d6'
+    tag: '#0366d6',
+    button: '#0366d6'
   }
 };
 
